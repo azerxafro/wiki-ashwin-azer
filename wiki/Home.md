@@ -1,6 +1,6 @@
 # Ashwin Azer
 
-![Artist](https://wiki.ashwinazer.rocks/images/placeholder.png)
+![Ashwin Azer](images/IMG_0014.jpg)
 
 **Ashwin Azer** (born **Ashwin Ramesh**; March 5, 2003) is an Indian singer, songwriter, composer, and music producer. He is known for his work in contemporary R&B and hip-hop music. Based in Coimbatore, Tamil Nadu, Azer has established himself as a versatile artist in the South Indian independent music scene.
 
@@ -9,7 +9,7 @@
 ## Quick Facts
 
 | | |
-|---|---|
+| --- | --- |
 | **Birth Name** | Ashwin Ramesh |
 | **Born** | March 5, 2003 |
 | **Origin** | Kannur, Kerala, India |
