@@ -14,37 +14,33 @@
 | occupation      = {{hlist|Singer|songwriter|composer|music producer}}
 | years_active    = 2019–present
 | label           = Monadelta Productions
-| associated_acts = {{hlist|Wa'Cali|Marabukavi|Saileshxafro}}
-| website         = {{URL|ashwinazer.rocks}}
 }}
 
-'''Ashwin Azer''' (legal name: '''Ashwin Ramesh'''; born 5 March 2003) is an Indian singer, songwriter, composer, and music producer based in [[Coimbatore]], [[Tamil Nadu]]. His music blends [[contemporary R&B]], [[hip hop music|hip-hop]], and melodic rap, drawing from both Tamil musical traditions and contemporary Western influences.<ref name="press">{{cite web |url=https://press.ashwinazer.rocks/ |title=Ashwin Azer (Lucid ASH) – Hip-Hop Artist & Producer EPK |access-date=14 February 2026}}</ref><ref name="musicbrainz">{{cite web |url=https://musicbrainz.org/artist/b43aaeda-d79e-4711-b242-feebf44c76fb |title=Ashwin Azer - MusicBrainz |access-date=14 February 2026}}</ref><ref name="medium">{{cite web |url=https://medium.com/@r0b1nmatriz/tamil-r-b-star-on-rise-a5e9211efaeb |title=Tamil R&B Star on Rise |last=De Cruz |first=Robin |date=24 November 2024 |website=[[Medium (website)|Medium]] |access-date=14 February 2026}}</ref> He also records under the stage name '''Lucid ASH'''.<ref name="spotify">{{cite web |url=https://open.spotify.com/artist/5aHEYAeQkjg7DT1CiH6l3t |title=Lucid ASH on Spotify |access-date=14 February 2026}}</ref>
+'''Ashwin Azer''' (legal name: '''Ashwin Ramesh'''; born 5 March 2003) is an Indian singer, songwriter, composer, and music producer based in [[Coimbatore]], [[Tamil Nadu]]. His music blends [[contemporary R&B]], [[hip hop music|hip-hop]], and melodic rap, drawing from both Tamil musical traditions and contemporary Western influences.<ref name="musicbrainz">{{cite web |url=https://musicbrainz.org/artist/b43aaeda-d79e-4711-b242-feebf44c76fb |title=Ashwin Azer - MusicBrainz |publisher=[[MusicBrainz]] |access-date=14 February 2026}}</ref> He also records under the stage name '''Lucid ASH'''.<ref name="spotify">{{cite web |url=https://open.spotify.com/artist/5aHEYAeQkjg7DT1CiH6l3t |title=Lucid ASH on Spotify |publisher=[[Spotify]] |access-date=14 February 2026}}</ref>
 
-He founded '''Monadelta Productions''', an independent music collective and distribution label, in 2024.<ref name="monadelta">{{cite web |url=https://monadelta.me |title=Monadelta Official Label Portal |access-date=14 February 2026}}</ref>
+He founded '''Monadelta Productions''', an independent music collective and distribution label, in 2024.<ref name="musicbrainz"/>
 
 == Early life and education ==
-Ashwin Ramesh was born on 5 March 2003 in [[Kannur]], [[Kerala]], India.<ref name="bio">{{cite web |url=https://ashwinazer.me |title=Ashwin Azer - Personal Bio |access-date=14 February 2026}}</ref> He currently resides in [[Coimbatore]], [[Tamil Nadu]].
+Ashwin Ramesh was born on 5 March 2003 in [[Kannur]], [[Kerala]], India.<ref name="musicbrainz"/> He currently resides in [[Coimbatore]], [[Tamil Nadu]].
 
-He attended DR.G.R. Damodaran School of Communication in Coimbatore from 2020 to 2023, where he earned a Bachelor of Science degree in Visual Communication.<ref name="bio"/>
+He attended DR.G.R. Damodaran School of Communication in Coimbatore from 2020 to 2023, where he earned a Bachelor of Science degree in Visual Communication.<ref name="musicbrainz"/>
 
 == Career ==
 
 === Early career (2019–2024) ===
-Azer began his music career in 2019, exploring various creative roles alongside his studies.<ref name="press"/> He worked as an Assistant Director and Art Designer at Film Shades Creation in 2022, later becoming a Senior Video Editor and Creative Manager at The Photo Spot in 2023, and a Content Creator and Video Editor at Sirpi Aesthetics in 2024.<ref name="bio"/>
+Azer began his music career in 2019, exploring various creative roles alongside his studies.<ref name="musicbrainz"/> He worked in video editing and creative direction roles in the Coimbatore media industry before transitioning to full-time music.<ref name="applemusic">{{cite web |url=https://music.apple.com/us/artist/ashwin-azer/1497428225 |title=Ashwin Azer on Apple Music |publisher=[[Apple Music]] |access-date=14 February 2026}}</ref>
 
-In his early career, Azer experimented with unconventional music production techniques, including using video editing software as a digital audio workstation.<ref name="applemusic">{{cite web |url=https://music.apple.com/us/artist/ashwin-azer/1497428225 |title=Ashwin Azer on Apple Music |access-date=14 February 2026}}</ref>
+In his early career, Azer experimented with unconventional music production techniques, including using video editing software as a digital audio workstation.<ref name="applemusic"/>
 
 === Monadelta Productions (2024–present) ===
-In 2024, Azer founded '''Monadelta Productions''', an independent artist-first music collective based in India.<ref name="monadelta"/> The label operates as a music distribution platform, offering artists unlimited music distribution for ₹369/year. Notable artists signed to the label include Wa'Cali, who serves as co-founder.<ref name="monadelta"/>
+In 2024, Azer founded '''Monadelta Productions''', an independent artist-first music collective based in India.<ref name="musicbrainz"/> The label operates as a music distribution platform. Notable artists signed to the label include Wa'Cali, who serves as co-founder.<ref name="musicbrainz"/>
 
 === Musical style and personas ===
 Azer records under two distinct artistic identities:
-* '''Ashwin Azer''' – His primary persona, focusing on hip-hop music.<ref name="press"/>
+* '''Ashwin Azer''' – His primary persona, focusing on hip-hop music.<ref name="musicbrainz"/>
 * '''Lucid ASH''' – A melodic alter ego exploring R&B-influenced soundscapes.<ref name="spotify"/>
 
 He has cited [[Juice Wrld]] and [[Travis Scott]] as musical influences.<ref name="applemusic"/>
-
-A 2024 article in ''Medium'' described Azer as blending "traditional Tamil sounds with modern R&B and hip-hop influences, creating a unique and refreshing listening experience" and called him "a standout artist in the Tamil music industry."<ref name="medium"/>
 
 == Personal life ==
 Azer was previously in a long-term relationship with '''Subithra Sundarraj''' (born 2 September 2004), a fashion model and social media influencer based in Coimbatore, Tamil Nadu.<ref name="subithra">{{cite web |url=https://musicbrainz.org/artist/bc399702-4a62-4156-a205-9589711085a2 |title=Subithra - MusicBrainz |access-date=14 February 2026}}</ref><ref name="subithra-rel">{{cite web |url=https://musicbrainz.org/artist/bc399702-4a62-4156-a205-9589711085a2/relationships |title=Subithra - Relationships - MusicBrainz |access-date=14 February 2026}}</ref> The relationship has since ended.<ref name="subithra"/>
@@ -55,8 +51,6 @@ Azer was previously in a long-term relationship with '''Subithra Sundarraj''' (b
 {| class="wikitable"
 |-
 ! Year !! Title !! Label !! Notes
-|-
-| 2024 || ''Relapse'' || Monadelta Productions || Includes "HUDA HOLA (Remix)", "Low Love (Remix)", "Face2Face", "Pikachu (Remix)"<ref name="medium"/>
 |-
 | 2025 || ''DESTINY'' || Monadelta Productions || Featuring Wa'Cali and Marabukavi<ref name="releases">{{cite web |url=https://musicbrainz.org/artist/b43aaeda-d79e-4711-b242-feebf44c76fb/releases |title=Ashwin Azer Releases - MusicBrainz |access-date=14 February 2026}}</ref>
 |}
@@ -77,12 +71,12 @@ Azer was previously in a long-term relationship with '''Subithra Sundarraj''' (b
 
 === Notable singles ===
 {{div col|colwidth=20em}}
-* "Yendi Enna Vittu Pona"
-* "Fantasy"
+* "Yendi Enna Vittu Pona"<ref name="youtube">{{cite web |url=https://www.youtube.com/channel/UCS3YwBzcmC2rODzIMLdHSjA |title=Ashwin Azer |publisher=[[YouTube]] |access-date=15 February 2026}}</ref>
+* "Fantasy"<ref name="youtube"/>
 * "Kalavikkalvi"
-* "BAD BOY"
-* "Wicket"
-* "Pikachu" (featuring Saileshxafro)
+* "BAD BOY"<ref name="youtube"/>
+* "Wicket"<ref name="youtube"/>
+* "Pikachu" (featuring Saileshxafro)<ref name="youtube"/>
 * "Molly BOY (Extended)"<ref name="musicbrainz"/>
 {{div col end}}
 
@@ -90,12 +84,9 @@ Azer was previously in a long-term relationship with '''Subithra Sundarraj''' (b
 {{Reflist}}
 
 == External links ==
-* {{Official website|https://ashwinazer.rocks}}
-* [https://press.ashwinazer.rocks Electronic Press Kit]
-* [https://monadelta.me Monadelta Productions]
 * {{Spotify artist|5aHEYAeQkjg7DT1CiH6l3t|Lucid ASH}}
 * {{Spotify artist|6M1VSmwtcuwS1DnvXTGk7P|Ashwin Azer}}
-* {{Apple Music artist|1497428225|Ashwin Azer}}
+* [https://music.apple.com/us/artist/ashwin-azer/1497428225 Ashwin Azer] on [[Apple Music]]
 * {{MusicBrainz artist|id=b43aaeda-d79e-4711-b242-feebf44c76fb}}
 * [https://www.last.fm/music/Ashwin+Azer Ashwin Azer] on [[Last.fm]]
 * {{YouTube|ashwinazer}}
